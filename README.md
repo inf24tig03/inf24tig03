@@ -49,6 +49,7 @@ A proposta inicial abordou a temática “Educação do Futuro: Inovação e Tec
 
 ## 4. Presentation
 
+Projeto realizado por: Hugo Teixeira Martins [@HugoTeixeiraMartins](https://github.com/HugoTeixeiraMartins)
 > Apresentação será realizada em Netlify:  
 🔗 [https://inf25tigXX.netlify.app](https://inf25tigXX.netlify.app)
 
