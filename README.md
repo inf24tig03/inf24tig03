@@ -22,7 +22,7 @@ A proposta inicial abordou a temática “Educação do Futuro: Inovação e Tec
 - `recursos.html`: Integração de XML + vídeo
 
 ### Wireframes
-[concept](src\imagens\concept.png)
+[concept](doc\imagens\concept.png)
 
 ## 3. Product
 
