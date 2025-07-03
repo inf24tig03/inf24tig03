@@ -50,5 +50,5 @@ A proposta inicial abordou a temática “Educação do Futuro: Inovação e Tec
 ## 4. Presentation
 
 > Apresentação será realizada em Netlify:  
-🔗 [https://inf24tigXX.netlify.app](https://inf24tigXX.netlify.app)
+🔗 [https://inf25tigXX.netlify.app](https://inf25tigXX.netlify.app)
 
